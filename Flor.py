@@ -33,3 +33,4 @@ print()
 
 print("Estado de ánimo actual:")
 print("Motivada ")
+print("Arturo:Tu flor ps anque no te hable o no hablemos eres bien buena persona y me agrada tu honestidad")
