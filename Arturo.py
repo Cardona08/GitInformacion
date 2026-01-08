@@ -17,3 +17,4 @@ print("=========================================================================
 
 
 print("concuerdo con tu personalidad")
+print("G: rayos por tu caso ")

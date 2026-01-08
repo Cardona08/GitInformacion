@@ -34,3 +34,4 @@ print("Estado de ánimo actual:")
 print("Motivado")
 
 print("concuerdo")
+print("G: eso es toño")

@@ -23,3 +23,5 @@ print("3.-Rock")
 print(" Vacaciones: ")
 print("En mis vacaciones hice un salto desde una avioneta a mas de 17 mil pies de altura, " \
 "fuí a Val-Quirico, Cholula Puebla y practicar trail running.")
+
+print("G: que grandes aventuras se avento")

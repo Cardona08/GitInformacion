@@ -35,3 +35,4 @@ print("Estado de ánimo actual:")
 print("Motivada ")
 
 print("duermetee :)")
+print("G: que grande")

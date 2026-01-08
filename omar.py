@@ -13,3 +13,4 @@ print("serio")
 print("=============================================================================================")
 #agrege campos de tomate 
 print("Mood serio ?")
+print("G: eres grande tomate")
