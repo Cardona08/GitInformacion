@@ -12,4 +12,3 @@ print("=========================================================================
 print("serio")
 print("=============================================================================================")
 #agrege campos de tomate 
-print("Arturo:Tu Tomate eres un Compañero y Amigo muy Reesponsable y Honesto bro")
