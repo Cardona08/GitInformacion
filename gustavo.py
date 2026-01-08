@@ -18,3 +18,5 @@ print("Estado de ánimo: Alegre")
 print("----------------------------------------")
 print(" Gustavo Hernández García")
 print("========================================")
+
+print("concuerdo cun tus gustos musicales")
