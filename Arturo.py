@@ -14,3 +14,6 @@ print("=========================================================================
 print("Y mi Estado Emocional es Alegre por Volver a estar en la Escula y ya no Estar aplastado en la" \
 "casa y no ser sobre explotado en mi trabajo de Nuevo")
 print("=============================================================================================")
+
+
+print("concuerdo con tu personalidad")
