@@ -1,0 +1,6 @@
+print("N.Completo:Edwin cervantes celedonio")
+print("fortaleza:Comunicacion efectiva")
+print("Debilidad:Miedo al fracaso")
+print("Gustos: escuchar musica")
+print("canciones y artistas favorit@s:mi cancion fav es:30 mil pies de cris mj y mi artista favorito es cris mj ")
+print("Pues yo en vacaciones fui a la playa y pues ya :)")
